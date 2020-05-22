@@ -53,6 +53,6 @@ aux_links:
 heading_anchors: true
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
+#color_scheme: "dark"
 
 
