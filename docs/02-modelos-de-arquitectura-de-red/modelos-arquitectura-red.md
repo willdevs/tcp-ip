@@ -13,24 +13,18 @@ has_toc: false
 
 ---
 
+
 ## Resumen
 There are two ways to add data in Firestore.
 
-## Protocolos
+## Modelo OSI
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
 **model key** is attached with model object.
 
-## Estandares y organizaciones
+## Modelo TCP/IP
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
 **model key** is attached with model object.
 
-## Arquitectura en capas
-Create model object and add values to it and `save()` the model. After saving model **model id** and 
-**model key** is attached with model object.
-
-## Encapsulamiento
-Create model object and add values to it and `save()` the model. After saving model **model id** and 
-**model key** is attached with model object.
 
 ## Preguntas
 
