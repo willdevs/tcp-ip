@@ -2,6 +2,6 @@
 layout: default
 title: Arquitectura de los Protocolos de Red
 nav_order: 1
-permalink: /
+permalink: /protocolos-de-red
 has_children: true
 ---
