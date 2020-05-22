@@ -5,4 +5,4 @@
 layout: default
 ---
 
-Prueba
+Prueba2
