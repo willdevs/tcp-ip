@@ -3,11 +3,8 @@ layout: default
 title: Modelos de Arquitectura de Red
 nav_order: 2
 permalink: /modelos-arquitectura-red
-has_children: true
 ---
 
-
----
 
 ## Resumen
 There are two ways to add data in Firestore.

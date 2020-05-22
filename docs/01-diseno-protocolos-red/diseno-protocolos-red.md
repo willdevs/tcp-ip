@@ -3,20 +3,8 @@ layout: default
 title: Diseño de Protocolos de Red
 nav_order: 1
 permalink: /diseno-protocolos-red
-has_children: true
 ---
 
-
-# Diseño de Protocolos de Red
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Resumen
 There are two ways to add data in Firestore.
