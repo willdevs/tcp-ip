@@ -9,11 +9,19 @@ permalink: /modelos-arquitectura-red
 ## Resumen
 There are two ways to add data in Firestore.
 
-## Modelo OSI
+## Protocolos
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
 **model key** is attached with model object.
 
-## Modelo TCP-IP
+## Estandares y organizaciones
+Create model object and add values to it and `save()` the model. After saving model **model id** and 
+**model key** is attached with model object.
+
+## Arquitectura en capas
+Create model object and add values to it and `save()` the model. After saving model **model id** and 
+**model key** is attached with model object.
+
+## Encapsulamiento
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
 **model key** is attached with model object.
 
