@@ -1,8 +1,15 @@
 ---
 layout: default
 title: Diseño de Protocolos de Red
-nav_order: 2
+nav_order: 3
 permalink: /diseno-protocolos-red
+---
+#### Contenido:
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 ---
 
 

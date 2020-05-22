@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Red de control para automóviles basada en Ethernet
-nav_order: 4
+nav_order: 5
 permalink: /ethernet-automovil
 ---
 
