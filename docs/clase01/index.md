@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TCP-IP
+title: Stack TCP-IP
 nav_order: 1
-description: "Suite de protocolos TCP-IP"
 permalink: /
+has_children: true
 ---
 
 ## RESUMEN
