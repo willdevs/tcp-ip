@@ -4,6 +4,9 @@ title: Red de control para automóviles basada en Ethernet
 nav_order: 5
 permalink: /ethernet-automovil
 ---
+# Red de control para automóviles basada en Ethernet
+{: .no_toc }
+
 #### Contenido:
 {: .no_toc }
 

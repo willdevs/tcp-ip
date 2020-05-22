@@ -4,6 +4,9 @@ title: ARP - Protocolo de resolución de direcciones
 nav_order: 10
 permalink: /arp
 ---
+# ARP - Protocolo de resolución de direcciones
+{: .no_toc }
+
 #### Contenido:
 {: .no_toc }
 

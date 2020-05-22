@@ -4,6 +4,9 @@ title: Capa de enlace de red
 nav_order: 7
 permalink: /link-layer
 ---
+# Capa de enlace de red
+{: .no_toc }
+
 #### Contenido:
 {: .no_toc }
 

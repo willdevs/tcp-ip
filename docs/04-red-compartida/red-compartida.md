@@ -4,6 +4,9 @@ title: Red Compartida
 nav_order: 6
 permalink: /red-compartida
 ---
+# Red Compartida
+{: .no_toc }
+
 #### Contenido:
 {: .no_toc }
 

@@ -4,6 +4,9 @@ title: Wireless
 nav_order: 9
 permalink: /wifi
 ---
+# Wireless, WIFI 802.11
+{: .no_toc }
+
 #### Contenido:
 {: .no_toc }
 

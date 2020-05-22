@@ -4,6 +4,9 @@ title: Diseño de Protocolos de Red
 nav_order: 3
 permalink: /diseno-protocolos-red
 ---
+# Diseño de Protocolos de Red
+{: .no_toc }
+
 #### Contenido:
 {: .no_toc }
 

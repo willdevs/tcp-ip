@@ -4,6 +4,9 @@ title: Ethernet
 nav_order: 8
 permalink: /ethernet
 ---
+# Ethernet
+{: .no_toc }
+
 #### Contenido:
 {: .no_toc }
 
