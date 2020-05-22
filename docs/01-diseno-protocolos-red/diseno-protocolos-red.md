@@ -8,7 +8,7 @@ permalink: /diseno-protocolos-red
 {: .no_toc }
 **Autores:** Juan Perez, Pedro Perez, {: .fs-4 }
 **Revisiones:**  Otto Ramirez, Juan Galvez {: .fs-4 }
-**Fecha:** 22-05-2009 {: .fs-4 }
+**Fecha:** 22-05-2009 {: .fs-3 }
 
 #### Contenido:
 {: .no_toc }
