@@ -4,19 +4,20 @@ title: Diseño de Protocolos de Red
 nav_order: 3
 permalink: /diseno-protocolos-red
 ---
-# Diseño de Protocolos de Red
-{: .no_toc }
 **Autores:** Juan Perez, Pedro Perez
 
-\{: .fs-3 }
+\{: .fs-2 }
 
 **Revisiones:**  Otto Ramirez, Juan Galvez
 
-\{: .fs-3 }
+\{: .fs-2 }
 
 **Fecha:** 22-05-2009
 
-\{: .fs-3 }
+\{: .fs-2 }
+
+# Diseño de Protocolos de Red
+{: .no_toc }
 
 #### Contenido:
 {: .no_toc }
