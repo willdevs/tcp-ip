@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Wireless
+title: Capa de enlace de red
 nav_order: 5
-permalink: /wifi
+permalink: /link-layer
 has_children: true
 ---

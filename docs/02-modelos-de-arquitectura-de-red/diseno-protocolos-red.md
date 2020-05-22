@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Arquitectura de los Protocolos de Red
-nav_order: 1
-permalink: /protocolos-de-red
+title: Modelos de Arquitectura de Red
+nav_order: 2
+permalink: /modelos-arquitectura-red
 has_children: true
-parent: Arquitectura de los Protocolos de Red
 ---
 
 
