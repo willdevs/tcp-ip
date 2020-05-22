@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Diseño de Protocolos de Red
-nav_order: 1
+nav_order: 2
 permalink: /diseno-protocolos-red
 ---
 
