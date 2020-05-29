@@ -45,9 +45,9 @@ plugins:
 # Supports true (default) or false
 search_enabled: true
 
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+#aux_links:
+#  "Just the Docs on GitHub":
+#    - "//github.com/pmarsceill/just-the-docs"
 
 # Supports true (default) or false/nil
 heading_anchors: true
