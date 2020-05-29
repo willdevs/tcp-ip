@@ -4,13 +4,13 @@ title: Diseño de Protocolos de Red
 nav_order: 3
 permalink: /diseno-protocolos-red
 ---
-**Autores:** Juan Perez, Pedro Perez
+##### **Autores:** Juan Perez, Pedro Perez
 
-**Fecha de creación:** 27-05-2020
+##### **Fecha de creación:** 27-05-2020
 
-**Revisiones:**  Otto Ramirez, Juan Galvez
+##### **Revisiones:**  Otto Ramirez, Juan Galvez
 
-**Fecha de revisión:** 22-05-2009
+##### **Fecha de revisión:** 22-05-2009
 
 # Diseño de Protocolos de Red
 {: .no_toc }
