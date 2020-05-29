@@ -6,15 +6,16 @@ permalink: /diseno-protocolos-red
 ---
 **Autores:** Juan Perez, Pedro Perez
 
-\{: .fs-2 }
+\
+**Fecha de creación:** 27-05-2020
 
 **Revisiones:**  Otto Ramirez, Juan Galvez
 
-\{: .fs-2 }
+\
 
-**Fecha:** 22-05-2009
+**Fecha de revisión:** 22-05-2009
 
-\{: .fs-2 }
+\
 
 # Diseño de Protocolos de Red
 {: .no_toc }
