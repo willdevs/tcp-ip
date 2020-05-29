@@ -4,6 +4,18 @@ title: ARP - Protocolo de resolución de direcciones
 nav_order: 10
 permalink: /arp
 ---
+##### **Autores:** Nombre Apellido, Nombre Apellido
+{: .no_toc }
+
+##### **Fecha de creación:** 20-20-2020
+{: .no_toc }
+
+##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+{: .no_toc }
+
+##### **Fecha de revisión:** 20-20-2020
+{: .no_toc }
+
 # ARP - Protocolo de resolución de direcciones
 {: .no_toc }
 

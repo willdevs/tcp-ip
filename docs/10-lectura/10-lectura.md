@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Wireless
-nav_order: 9
-permalink: /wifi
+title: CSMA/CA
+nav_order: 12
+permalink: /csma-ca
+has_children: true
 ---
 ##### **Autores:** Nombre Apellido, Nombre Apellido
 {: .no_toc }
@@ -16,7 +17,7 @@ permalink: /wifi
 ##### **Fecha de revisión:** 20-20-2020
 {: .no_toc }
 
-# Wireless, WIFI 802.11
+# Revisiting CSMA/CA
 {: .no_toc }
 
 #### Contenido:
@@ -31,10 +32,17 @@ permalink: /wifi
 ## Resumen
 There are two ways to add data in Firestore.
 
-## WIFI 802.11
+## Contenido
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
 **model key** is attached with model object.
 
-## Compartiendo el medio en WIFI
+
+## Preguntas
+
+### Pregunta 1
+Create model object and add values to it and `save()` the model. After saving model **model id** and 
+**model key** is attached with model object.
+
+### Pregunta 2
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
 **model key** is attached with model object.

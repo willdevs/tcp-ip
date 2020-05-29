@@ -4,6 +4,18 @@ title: Capa de enlace de red
 nav_order: 7
 permalink: /link-layer
 ---
+##### **Autores:** Nombre Apellido, Nombre Apellido
+{: .no_toc }
+
+##### **Fecha de creación:** 20-20-2020
+{: .no_toc }
+
+##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+{: .no_toc }
+
+##### **Fecha de revisión:** 20-20-2020
+{: .no_toc }
+
 # Capa de enlace de red
 {: .no_toc }
 

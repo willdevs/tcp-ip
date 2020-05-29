@@ -5,7 +5,19 @@ nav_order: 11
 permalink: /arp-spoofing
 has_children: true
 ---
-# ARP Spoofing
+##### **Autores:** Nombre Apellido, Nombre Apellido
+{: .no_toc }
+
+##### **Fecha de creación:** 20-20-2020
+{: .no_toc }
+
+##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+{: .no_toc }
+
+##### **Fecha de revisión:** 20-20-2020
+{: .no_toc }
+
+# The Defense against ARP Spoofing
 {: .no_toc }
 
 #### Contenido:
