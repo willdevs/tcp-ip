@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSMA/CA
-nav_order: 12
+nav_order: 10
 permalink: /csma-ca
 has_children: true
 ---
