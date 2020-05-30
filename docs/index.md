@@ -24,10 +24,10 @@ Este sitio contiene información sobre su arquitectura y los aspectos más impor
 
 El contenido de este sitio está formado con los apuntes de clase, recopilados por los estudiantes del curso *'Suite de Protocolos TCP'* de la **Universidad Galileo**, gracias a ellos por su colaboración con la comunidad de contenido abierto en Internet.
 
-Este sitio web cuenta con un repositorio en GitHub, cualquier colaboración al contenido y revisión al mismo es recibida por medio de pull-requests al repositorio: https://github.com/victorsergio/tcp-ip
+Este sitio web cuenta con un repositorio en GitHub, cualquier colaboración al contenido y revisión al mismo es recibida por medio de pull-requests al repositorio: [https://github.com/victorsergio/tcp-ip](https://github.com/victorsergio/tcp-ip)
 
 ---
-
+<!--
 | Nombre    |  GitHub    |
 | ---- | ---- |
 |Diego Alejandro Alay Castañeda      |      |
@@ -56,5 +56,5 @@ Este sitio web cuenta con un repositorio en GitHub, cualquier colaboración al c
 |Willson Omar Trujillo Brooks      |      |
 |Luis Enrique Valenzuela Navarro      |      |
 |Santiago JoseWever Lainfiesta      |      |
-|      |      |
+-->
 
