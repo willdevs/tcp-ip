@@ -6,6 +6,7 @@ permalink: /diseno-protocolos-red
 ---
 ##### **Autores:** Nombre Apellido, Nombre Apellido
 {: .no_toc }
+[Jimmy Morales](https://github.com/jimmymorales)
 
 ##### **Fecha de creación:** 20-20-2020
 {: .no_toc }
