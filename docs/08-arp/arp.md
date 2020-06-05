@@ -4,7 +4,7 @@ title: ARP - Protocolo de resolución de direcciones
 nav_order: 10
 permalink: /arp
 ---
-##### **Autores:** Nombre Apellido, Nombre Apellido
+##### **Autores:** Fernando López, Nombre Apellido
 {: .no_toc }
 
 ##### **Fecha de creación:** 20-20-2020
@@ -44,8 +44,7 @@ Create model object and add values to it and `save()` the model. After saving mo
 **model key** is attached with model object.
 
 ## Caché ARP
-Create model object and add values to it and `save()` the model. After saving model **model id** and 
-**model key** is attached with model object.
+El caché ARP es una tabla que almacena las direcciones IP que corresponden a direcciones fisicas de los dispositivos a los que ha enviado información recientemente y sirve para saber a que dirección MAC enviar la informacion para que esta llegue al destino deseado sin tener que enviar un ARP request cada vez que desea enviar informacion a otro dispositivo saturando la red. Estas pueden ser dinámicas (que se hacen automáticamente) o estáticas (que se agregan manualmente).
 
 ## Formato del frame ARP
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
