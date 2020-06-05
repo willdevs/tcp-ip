@@ -1,26 +1,8 @@
 ##### Autor:** Luis Enrique Valenzuela Navarro
-
-{: .no_toc }
-
 ##### *Fecha de creación:* 04-06-2020
-
-{: .no_toc }
-
 ##### *Revisiones:*  Nombre Apellido, Nombre Apellido
-
-{: .no_toc }
-
 ##### *Fecha de revisión:* 20-20-2020
-
-{: .no_toc }
-
 # The Defense against ARP Spoofing
-
-{:toc}
-
----
-
-
 ## Resumen
 
 Una de las amenazas mas importantes contra la data de los usuarios en Internet son los ataques realizados a la capa de enlace de datos. Entre los mas importantes esta la suplantación de identidad. Estos ataques son posibles gracias a vulnerabilidades en el protocolo ARP. Una solución básica es agregar de manera estática las direcciones MAC e IP a la Tabla de cache ARP. Sin embargo debido a lo laborioso que podría llegar a ser, muchos administradores no están dispuestos a realizarlo. En este paper se propuso un método para mejorar la solución antes propuesta.  Para ello se propone agregar una función de validación ARP para administrar la tabla de cache ARP de manera automática. El método es simple y compatible con el protocolo ARP estándar. No requiere modificaciones en el protocolo. Se realizaron pruebas exitosas del método con el fin de proteger a los anfitriones contra los ataques de suplantación de ARP.
