@@ -1,22 +1,23 @@
 ---
 layout: default
-title: CSMA/CA
-nav_order: 24
-permalink: /csma-ca
+title: Ping
+nav_order: 29
+permalink: /ping
 ---
-##### **Autores:** 
+##### **Autores:**
 {: .no_toc }
+
 
 ##### **Fecha de creación:** 
 {: .no_toc }
 
-##### **Revisiones:**  
+##### **Revisiones:** 
 {: .no_toc }
 
 ##### **Fecha de revisión:** 
 {: .no_toc }
 
-# Revisiting CSMA/CA
+# TÍTULO
 {: .no_toc }
 
 #### Contenido:
@@ -29,19 +30,15 @@ permalink: /csma-ca
 
 
 ## Resumen
-There are two ways to add data in Firestore.
+La tabla de contenido se crea automáticamente con los títulos y subtítulos de su página.
+Debe agregar los títulos y subtítulos necesarios. Tome como ejemplo las otras páginas del sitio.
+(Recuerde eliminar este texto)
 
-## Contenido
+
+## TÍTULO
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
 **model key** is attached with model object.
 
-
-## Preguntas
-
-### Pregunta 1
+## SUBTÍTULO
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
-**model key** is attached with model object.
-
-### Pregunta 2
-Create model object and add values to it and `save()` the model. After saving model **model id** and 
-**model key** is attached with model object.
+**model key** is attached with model object. Esta es una prueba
