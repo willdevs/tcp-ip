@@ -12,7 +12,7 @@ permalink: /arp
 ##### **Fecha de creación:** 20-20-2020
 {: .no_toc }
 
-##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+##### **Revisiones:**  Marvin Chigüil, Nombre Apellido
 {: .no_toc }
 
 ##### **Fecha de revisión:** 20-20-2020
