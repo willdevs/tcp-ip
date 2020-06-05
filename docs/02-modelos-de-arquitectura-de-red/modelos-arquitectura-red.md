@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Modelos de Arquitectura de Red
-nav_order: 4
+nav_order: 12
 permalink: /modelos-arquitectura-red
 has_toc: false
 ---
-##### **Autores:** Nombre Apellido, Nombre Apellido
+##### **Autores:** 
 {: .no_toc }
 
-##### **Fecha de creación:** 20-20-2020
+##### **Fecha de creación:** 
 {: .no_toc }
 
-##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+##### **Revisiones:**  
 {: .no_toc }
 
-##### **Fecha de revisión:** 20-20-2020
+##### **Fecha de revisión:** 
 {: .no_toc }
 
 # Modelos de Arquitectura de Red

@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Unicast y Multicast
-nav_order: 9
+nav_order: 15
 permalink: /unicast-wifi
 ---
 ##### **Autores:**
 {: .no_toc }
-[Nombre](https:// url a su perfil en GitHub)
 
-##### **Fecha de creación:** Coloque la fecha de creación 00-00-2020
+
+##### **Fecha de creación:** 
 {: .no_toc }
 
 ##### **Revisiones:** 

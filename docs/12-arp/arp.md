@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ARP - Protocolo de resolución de direcciones
-nav_order: 10
+nav_order: 22
 permalink: /arp
 ---
 ##### **Autores:** Rafael Mazariegos, Fernando López
@@ -11,10 +11,10 @@ permalink: /arp
 ##### **Fecha de creación:** 05-06-2020
 {: .no_toc }
 
-##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+##### **Revisiones:**  
 {: .no_toc }
 
-##### **Fecha de revisión:** 20-20-2020
+##### **Fecha de revisión:** 
 {: .no_toc }
 
 # ARP - Protocolo de resolución de direcciones

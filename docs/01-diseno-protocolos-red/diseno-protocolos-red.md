@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Diseño de Protocolos de Red
-nav_order: 3
+nav_order: 11
 permalink: /diseno-protocolos-red
 ---
-##### **Autores:** Nombre Apellido, Nombre Apellido
+##### **Autores:** 
 {: .no_toc }
 [Jimmy Morales](https://github.com/jimmymorales), [Herbert Dávila](https://github.com/hjdgua)
 
-##### **Fecha de creación:** 20-20-2020
+##### **Fecha de creación:** 
 {: .no_toc }
 
-##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+##### **Revisiones:**  
 {: .no_toc }
 
-##### **Fecha de revisión:** 20-20-2020
+##### **Fecha de revisión:** 
 {: .no_toc }
 
 # Diseño de Protocolos de Red

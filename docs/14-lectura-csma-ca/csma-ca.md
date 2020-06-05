@@ -1,22 +1,23 @@
 ---
 layout: default
-title: Red de control para automóviles basada en Ethernet
-nav_order: 5
-permalink: /ethernet-automovil
+title: CSMA/CA
+nav_order: 24
+permalink: /csma-ca
+has_children: true
 ---
-##### **Autores:** Nombre Apellido, Nombre Apellido
+##### **Autores:** 
 {: .no_toc }
 
-##### **Fecha de creación:** 20-20-2020
+##### **Fecha de creación:** 
 {: .no_toc }
 
-##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+##### **Revisiones:**  
 {: .no_toc }
 
-##### **Fecha de revisión:** 20-20-2020
+##### **Fecha de revisión:** 
 {: .no_toc }
 
-# Red de control para automóviles basada en Ethernet
+# Revisiting CSMA/CA
 {: .no_toc }
 
 #### Contenido:

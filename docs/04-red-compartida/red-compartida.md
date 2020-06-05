@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Red Compartida
-nav_order: 6
+nav_order: 14
 permalink: /red-compartida
 ---
-##### **Autores:** Nombre Apellido, Nombre Apellido
+##### **Autores:** 
 {: .no_toc }
 [Diego Alay](https://github.com/diegoalay)
 [Jaime Ramirez](https://github.com/jjjramirez)
 
-##### **Fecha de creación:** 20-20-2020
+##### **Fecha de creación:** 
 {: .no_toc }
 
-##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+##### **Revisiones:**  
 {: .no_toc }
 
-##### **Fecha de revisión:** 20-20-2020
+##### **Fecha de revisión:** 
 {: .no_toc }
 
 # Red Compartida
