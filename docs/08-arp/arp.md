@@ -8,7 +8,7 @@ permalink: /arp
 ##### **Autores:** Rafael Mazariegos, Nombre Apellido
 {: .no_toc }
 
-##### **Fecha de creación:** 20-20-2020
+##### **Fecha de creación:** 04-06-2020
 {: .no_toc }
 
 ##### **Revisiones:**  Nombre Apellido, Nombre Apellido
