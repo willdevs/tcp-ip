@@ -1,20 +1,20 @@
 ---
 layout: default
 title: IP
-nav_order: 13
+nav_order: 25
 permalink: /ip
 ---
-##### **Autores:** Nombre Apellido, Nombre Apellido
+##### **Autores:** 
 {: .no_toc }
 [Diego Arias](https://github.com/diegoarias2t)
 
-##### **Fecha de creación:** 20-20-2020
+##### **Fecha de creación:** 
 {: .no_toc }
 
-##### **Revisiones:**  Nombre Apellido, Nombre Apellido
+##### **Revisiones:**  
 {: .no_toc }
 
-##### **Fecha de revisión:** 20-20-2020
+##### **Fecha de revisión:** 
 {: .no_toc }
 
 # IP
