@@ -4,8 +4,10 @@ title: ARP - Protocolo de resolución de direcciones
 nav_order: 10
 permalink: /arp
 ---
-##### **Autores:** Nombre Apellido, Nombre Apellido
-{: .no_toc }
+##### **Autores:** Marvin Chigüil, Nombre Apellido
+{: .no_toc } 
+
+[ Marvin Chigüil](https://github.com/mrosendo782)
 
 ##### **Fecha de creación:** 20-20-2020
 {: .no_toc }
