@@ -35,9 +35,9 @@ There are two ways to add data in Firestore.
 ## IP
 IP trabaja bajo el concepto de "Best Effort". No es un protocolo orientado a conexión debido a que no mantiene ninguna información con respecto al estado.
 
-### Los datagramas no llegan siempre en el orden que son enviados.
-### Los datagramas se pueden corromper en el camino.
-### IP deja que estas tareas sean resueltas por capas superiores.
+- Los datagramas no llegan siempre en el orden que son enviados.
+- Los datagramas se pueden corromper en el camino.
+- IP deja que estas tareas sean resueltas por capas superiores.
 
 ## Entrega del mejor esfuerzo
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
@@ -55,9 +55,8 @@ There are two ways to add data in Firestore.
 
 ## Big endian vs Little Endian
 
-### Big Endian = bits mas significativos a la izquiera y menos significativos a la derecha. La ventaja de este tipo es que es mas facil leer.
-
-### Little Endian = bits mas significativos a la derecha y menos significativos a la izquierda. La ventaja de este tipo es que es utilizado en nuevos procesadores utilizan esta notación.
+- Big Endian = bits mas significativos a la izquiera y menos significativos a la derecha. La ventaja de este tipo es que es mas facil leer.
+- Little Endian = bits mas significativos a la derecha y menos significativos a la izquierda. La ventaja de este tipo es que es utilizado en nuevos procesadores utilizan esta notación.
 
 ## DFS (Differentiated Services Field) 
 Create model object and add values to it and `save()` the model. After saving model **model id** and 
